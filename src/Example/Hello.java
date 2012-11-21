@@ -28,6 +28,7 @@ public class Hello {
            System.out.println(x);  	
 		
 		System.out.print("ni hao ");	
+		System.out.print("hello");
 
 	}
 }
